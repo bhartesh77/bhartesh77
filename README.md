@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- HEADER -->
+<h1 align="center">Bhartesh Kaushik</h1>
+<h3 align="center">Full Stack Developer • Builder • Lifelong Learner</h3>
 
-<!--
-**bhartesh77/bhartesh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌌 About Me
+💻 Full stack developer who loves turning ideas into real-world applications.  
+🚀 Skilled in **Node.js, React, PostgreSQL, GraphQL** and modern web technologies.  
+🏋️ When I’m not coding, you’ll find me in the gym chasing strength goals.  
+📖 Always learning, always experimenting.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,prisma,docker,git&theme=light" />
+</p>
+
+---
+
+## 💼 Current Work
+### 🔗 [ScoopSorted](https://scoopsorted.in)  
+A web app that helps fitness enthusiasts **discover, rank, and review** pre-workout supplements.  
+- Built with **Next.js**, **PostgreSQL**, and **TailwindCSS**  
+- Focused on clarity, comparison, and real feedback  
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhartesh77">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhartesh77">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:bharteshkaushik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
